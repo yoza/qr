@@ -34,6 +34,7 @@ yarn-error.log*
 # local env files
 .env*.local
 .env.production
+.env.staging
 
 # vercel
 .vercel
@@ -45,3 +46,5 @@ next-env.d.ts
 # dbschema/edgeql-js
 
 certificates
+playwright-report/
+
